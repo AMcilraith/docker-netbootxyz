@@ -33,7 +33,7 @@ jobs:
     - name: Login to the Docker Container Registry
       uses: docker/login-action@v3
       with:
-        username: oneboyforchange@gmail.com
+        username: addibot
         password: TCMXxA104!56A104
 
     - name: Login to the GitHub Container Registry
