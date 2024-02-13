@@ -34,7 +34,7 @@ jobs:
       uses: docker/login-action@v3
       with:
         username: addibot
-        password: TCMXxA104!56A104
+        password: dckr_pat_Zqbr6-hdY3-6F23fhpTT6EyZ-Ns
 
     - name: Login to the GitHub Container Registry
       uses: docker/login-action@v3
