@@ -33,8 +33,8 @@ jobs:
     - name: Login to the Docker Container Registry
       uses: docker/login-action@v3
       with:
-        username: ${{ secrets.DOCKERHUB_USER }}
-        password: ${{ secrets.DOCKERHUB_TOKEN }}
+        username: oneboyforchange@gmail.com
+        password: TCMXxA104!56A104
 
     - name: Login to the GitHub Container Registry
       uses: docker/login-action@v3
